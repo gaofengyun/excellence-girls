@@ -12,12 +12,12 @@ IT 行业的优秀工程师；将 **卓越女生实验室** 建立成一个学�
 ### 优势分析
  1. 良好的学习环境(实验室的装修棒哒哒)。
  2. 全新的成员，没有任何的历史遗留问题。
- 3. 极其优秀的导师，这些导师在实际工作中获得的经验和见识是 [ThoughtWorks](https://www.thoughtworks.com/ "西安顶尖的 IT 公司") 卓越女生计划  最大的优势。
+ 3. 极其优秀的导师，这些导师在实际工作中获得的经验和见识是 [ThoughtWorks](https://www.thoughtworks.com/ "The Best") 卓越女生计划  最大的优势。
  
 ### 劣势分析
  1. 初建，组织构建，规章制度都没有完善。
  2. 没有前辈的管理经验可以参考，所有人都是新人，前期唯一能依靠的管理者只有老师和
-[ThoughtWorks](https://www.thoughtworks.com/ "请收下我吧") 的导师。
+[ThoughtWorks](https://www.thoughtworks.com/ "Give me a chance") 的导师。
 
 ## 纳新规划
 
@@ -41,14 +41,19 @@ IT 行业的优秀工程师；将 **卓越女生实验室** 建立成一个学�
 
     2. 小组成员分享
     
-      小组成员可以分享自己的知识，向未涉及该领域的人普及知识，也同时和同一领域的交流想法，碰撞火花。可以按照[分组](./member_Architecture.md)轮流进行分享，学习优异的先进行分享，让成员共同提高，共同进步。
+      小组成员可以分享自己的知识，向未涉及该领域的人普及知识，也同时和同一领域的交流想法，碰撞火花。可以按照[分组](./member_Architecture.md) 轮流进行分享，学习优异的先进行分享，让成员共同提高，共同进步。
     3. 讲师分享
     
-      [ThoughtWorks](https://www.thoughtworks.com/ "Give me a chance")
+      [ThoughtWorks](https://www.thoughtworks.com/ "Give me a chance") 卓越女生计划 目的之一是培养优秀的女程序媛，
+但这也是一个开放的计划，鼓励任何人分享和学习东西。
+      
 
  3. 比赛组织和参与
 
  4. 团建活动
+ {
+   团建活动, 我可不是女生,想不出合适女生的团建活动 // GO , GO 
+ }
  
 ## 管理建议
 
