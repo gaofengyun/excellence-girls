@@ -15,9 +15,9 @@ IT 行业的优秀工程师；将 **卓越女生实验室** 建立成一个学�
 [ThoughtWorks](https://www.thoughtworks.com/ "请收下我吧") 的导师。
 
 ## 纳新规划
--[成员基本要求](./member_request.md)
 
--[成员架构](./member_Architecture.md)
+- [成员基本要求](./member_request.md)
+- [成员架构](./member_Architecture.md)
 　
  
 
