@@ -13,7 +13,7 @@
  
 ## Task One 工具学习
   0. 学习 Markdown 语法。
-    
+     
       - [简书 Markdown 语法入门教程](http://www.jianshu.com/p/q81RER)
       - [Markdown 语法说明](http://wowubuntu.com/markdown/) 
       - [markdown 入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
@@ -27,17 +27,19 @@
 
 
 ##参考资料
-### Markdown
-    - [简书 Markdown 语法入门教程](http://www.jianshu.com/p/q81RER)
-    - [Markdown 语法说明](http://wowubuntu.com/markdown/) 
-    - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-    - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
-    - [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘
-      
+###Markdown
+   - [简书 Markdown 语法入门](http://www.jianshu.com/p/q81RER)
+   - [Markdown 语法说明](http://wowubuntu.com/markdown/) 
+   - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
+   - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
+   - [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘 
+ 
+
 ### git && github
-    - [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-    - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-    - [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details)	
+   - [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+   - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+   - [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details)	
+    
     
 ### 综合
    
