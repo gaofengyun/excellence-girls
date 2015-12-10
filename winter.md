@@ -1,3 +1,5 @@
+## 前言
+
 各位成员，你们的寒假是你们快速提升自我的一个好的时间。在这段期间内，协会的大二和大三成员，为各位精心准备了学习计划，
 这个计划主要涉及这样几个方面
  1. 基本工具
@@ -12,19 +14,15 @@
   各组分配以参考书籍的方式列出。
  
 ## Task One 工具学习
-  0. 学习 Markdown 语法。
-     
-      - [简书 Markdown 语法入门教程](http://www.jianshu.com/p/q81RER)
-      - [Markdown 语法说明](http://wowubuntu.com/markdown/) 
-      - [markdown 入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-      - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
-      - [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘
-  2. git && github 学习。 
-     - [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-     - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-     - [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details)
-  3. 注册你  github 账号
+   学习 Markdown 语法。
+     Markdown 是
+   git && github 学习。 
+  
+**测试任务**: 
 
+申请加入 [xiyouant](https://github.com/xiyouant)，然后找到这个项目，并且 star 一下
+
+在自己的 github 中，创建一个 winter_learning 的库，写一个 task_one_hello.c 文件,输出 `Hello World，xiyounet` , 推送到该库之中。
 
 ##参考资料
 ###Markdown
