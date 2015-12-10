@@ -13,7 +13,8 @@
 
   各组分配以参考书籍的方式列出。
  
-## Task One 工具学习
+## Task 
+###One 工具学习
 
   **学习 Markdown 语法**
   
@@ -32,6 +33,9 @@
 申请加入 [xiyouant](https://github.com/xiyouant)，然后找到这个项目，并且 star 一下
 
 在自己的 github 中，创建一个 winter_learning 的库，写一个 task_one_hello.c 文件,输出 `Hello World，xiyounet` , 推送到该库之中。
+
+### Two C 语言
+ 
 
 ##参考资料
 ###Markdown
